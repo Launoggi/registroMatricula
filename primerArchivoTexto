@@ -1,1 +1,6 @@
 Este es mi primer archivo de texto.
+pwd: me dice la ruta en la que me encuentro
+git: sistema de control de versiones
+git add "archivo": para añadir un archivo
+git status: para saber en qué estado estoy
+git add. : añade todos los archivos que he agregado
